@@ -1,0 +1,2 @@
+node hhjs
+start
